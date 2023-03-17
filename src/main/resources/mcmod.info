@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "bloodyutility",
+        "name": "BloodyUtility",
+        "description": "Minecraft 1.12.2 bloody online season 7 utility mod",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/I-am-ddang",
+        "updateUrl": "",
+        "authorList": ["DDang_"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
